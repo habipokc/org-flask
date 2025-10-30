@@ -1,6 +1,5 @@
 # Org-Flask Mini API for Service Booking
 
-![Python](https://img.shields.io/badge/python-3.11-blue.svg)
 
 Bu proje, basit bir etkinlik hizmeti listeleme ve rezervasyon talebi alma API'sidir. Proje, sadece temel gereksinimleri karşılamakla kalmaz, aynı zamanda modern yazılım geliştirme pratikleri, modüler mimari, sağlam hata yönetimi, loglama ve otomatik testler gibi profesyonel özellikleri de içerir.
 
